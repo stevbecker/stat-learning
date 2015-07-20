@@ -112,6 +112,10 @@ dim(Boston)
 # 506 rows, 14 columns
 # 14 features, 506 housing values in Boston suburbs
 
+# write the Boston data fram to a CSV file
+fix(Boston)
+write.csv(Boston, file="E:\\1Now\\1aDC\\data\\Boston.csv")
+
 
 # (b)
 pairs(Boston)
