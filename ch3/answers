@@ -3,8 +3,8 @@ ads and newspaper ads, TV ads have no effect on sales. Similarly, the null
 hypothesis for "radio" is that in the presence of TV and newspaper ads, radio
 ads have no effect on sales. (And there is a similar null hypothesis for
 "newspaper".) The low p-values of TV and radio suggest that the null hypotheses
-are false for TV and radio. The high p-value of newspaper suggests that the null
-hypothesis is true for newspaper.
+are false for TV and radio. The high p-value of newspaper fails to give evidence
+against the null hypothesis for newspaper.
 
 
 2. KNN classifier and KNN regression methods are closely related in formula.
